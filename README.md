@@ -10,7 +10,7 @@ After doing some research online, we decided on Ubuntu. Ubuntu comes with a soft
 ![image](https://user-images.githubusercontent.com/82058058/166124249-8f751a96-0e13-4f91-9280-21bc6a257399.png)
 
 ## Installation Guide
-Make an iso image that is similar to ours:
+A step-by-step tutorial to making an iso image that is similar to ours: [Installation Guide](https://github.com/DeadBwain/Unix-Final-Project/blob/fd8d9ae53d5f8ba29d280028b84c6fda8f2cbbd6/INSTALLATION)
 
 ## Team Composition: 
 Jiamin Yuan, Jonathan Dimitriu
