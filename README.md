@@ -1,5 +1,6 @@
 # Unix-Final-Project
-*Team Member: Jiamin Yuan, Jonathan Dimitriu*
+Custom iso image
+
 ## Project description
 A working **ubuntu** iso image with specific packages for media professionals. This includes providing them with software combinations that are customized to them (such as Photoshop alternatives, video and audio editing, painting tools, etc).
 
@@ -8,5 +9,11 @@ After doing some research online, we decided on Ubuntu. Ubuntu comes with a soft
 
 ![image](https://user-images.githubusercontent.com/82058058/166124249-8f751a96-0e13-4f91-9280-21bc6a257399.png)
 
-## License
+## Installation Guide
+Make an iso image that is similar to ours:
 
+## Team Composition: 
+Jiamin Yuan, Jonathan Dimitriu
+
+## License
+The project is licensed under GNU/General Public License version 3.0. 
