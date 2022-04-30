@@ -1,5 +1,4 @@
-# Unix-Final-Project
-Custom iso image
+# Unix Final Project - Custom ISO Image
 
 ## Project description
 A working **ubuntu** iso image with specific packages for media professionals. This includes providing them with software combinations that are customized to them (such as Photoshop alternatives, video and audio editing, painting tools, etc).
