@@ -6,7 +6,7 @@ A working **ubuntu** iso image with specific packages for media professionals. T
 ![image](https://user-images.githubusercontent.com/82058058/166124249-8f751a96-0e13-4f91-9280-21bc6a257399.png)
 
 ## Installation Guide
-A step-by-step tutorial to making an iso image that is similar to ours: [Installation Guide](https://github.com/DeadBwain/Unix-Final-Project/blob/fd8d9ae53d5f8ba29d280028b84c6fda8f2cbbd6/INSTALLATION)
+A step-by-step tutorial to making an iso image that is similar to ours: [Installation Guide](https://github.com/DeadBwain/Unix-Final-Project/blob/b3f91323a025c9a07aff8a4e8a64031a7311a4e4/INSTALL.md)
 
 ## Acknowledgment
 Team Member: Jiamin Yuan, Jonathan Dimitriu  
