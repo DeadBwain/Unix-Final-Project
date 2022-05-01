@@ -46,10 +46,10 @@ Using Command:
 
 **Download media industry-specific software packages.**
 The following website privides a variety of alternatives spcifically for editing:   
-[Audio Editing](https://linuxhint.com/audio_editing_music_making_software_linux/)
-[Video Editing] (https://itsfoss.com/best-video-editing-software-linux/)
-[Photoshop Alternatives] (https://sourcedigit.com/24367-photoshop-alternative-for-ubuntu-linux/)
-[Paint Alternative:] (https://www.makeuseof.com/best-paint-alternatives-for-linux/)
+[Audio Editing](https://linuxhint.com/audio_editing_music_making_software_linux/)  
+[Video Editing](https://itsfoss.com/best-video-editing-software-linux/)  
+[Photoshop Alternatives](https://sourcedigit.com/24367-photoshop-alternative-for-ubuntu-linux/)  
+[Paint Alternative:](https://www.makeuseof.com/best-paint-alternatives-for-linux/)
 
 I downloaded one in each category
 - Gimp (Photoshop alternative): $ apt install gimp 
