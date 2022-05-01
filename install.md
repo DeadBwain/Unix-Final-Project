@@ -76,7 +76,7 @@ List all the backgrounds in the directory (img19 & outrun-vaporwave are the ones
 ![image](https://user-images.githubusercontent.com/82058058/166127694-f4dfed1f-0912-4cc6-bfdd-64a20ba393ca.png)
 
 **Second Part**
-1. Same as the first part, but in a different directory. Change directory to /usr/share/gnome-background-properties: $ cd /usr/share/gnome-background-properties
+1. Same as the first part, but in a different directory. Change directory to /usr/share/gnome-background-properties: $ cd /usr/share/gnome-background-properties  
 ![image](https://user-images.githubusercontent.com/82058058/166127743-1ea5e863-bc6d-4192-8781-bdfc8f40a54d.png)
 
 ### Step 9: Choose which packages need to be deleted from the customized iso. 
