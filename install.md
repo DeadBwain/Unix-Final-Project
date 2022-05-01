@@ -44,7 +44,7 @@ Using Command:
 - $ sudo apt update
 ![image](https://user-images.githubusercontent.com/82058058/166127148-98dbce61-1be0-40c0-9204-5340199410a4.png)
 
-**Download media industry-specific software packages.**   
+#### Download media industry-specific software packages.####  
 The following website privides a variety of alternatives spcifically for editing:   
 [Audio Editing](https://linuxhint.com/audio_editing_music_making_software_linux/)  
 [Video Editing](https://itsfoss.com/best-video-editing-software-linux/)  
@@ -64,15 +64,15 @@ I downloaded one in each category
 - Krita (painting tool): $ apt install krita
 ![image](https://user-images.githubusercontent.com/82058058/166127620-29d1e27f-ebb4-4baf-b045-19ffc450f9cc.png)
 
-### Optional: Provide background options
+#### Optional: Provide background options ####
 **First Part**
 1. Change the directory to /usr/share/backgrounds: $ cd /usr/share/backgrounds
 2. Download some of the wallpapers available. 
 3. Then paste the file from the Downloads folder into the virtual environment's terminal. It will display a new interface like the one below; click Copy.
 4. Repeat these procedures for each wallpaper you'd like to use.
 ![image](https://user-images.githubusercontent.com/82058058/166127667-0d4eff67-0b1f-4f5f-a012-0f2dc1011edc.png) 
-![image](https://user-images.githubusercontent.com/82058058/166127676-45fb1382-7d6c-432a-95ce-0cc8eb36d037.png) 
-*List all the backgrounds in the directory (img19 & outrun-vaporwave are the ones I added): $ ls usr/share/backgrounds*
+![image](https://user-images.githubusercontent.com/82058058/166127676-45fb1382-7d6c-432a-95ce-0cc8eb36d037.png)     
+List all the backgrounds in the directory (img19 & outrun-vaporwave are the ones I added): $ ls usr/share/backgrounds  
 ![image](https://user-images.githubusercontent.com/82058058/166127694-f4dfed1f-0912-4cc6-bfdd-64a20ba393ca.png)
 
 **Second Part**
