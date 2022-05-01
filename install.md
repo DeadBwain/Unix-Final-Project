@@ -23,7 +23,7 @@ Use the following command:
 ![image](https://user-images.githubusercontent.com/82058058/166127034-74e520a6-842f-4207-b8d7-fb9bdf21710f.png)
 
 ### Step 4: Choose a directory to store the custom iso image
-I made a new directory and stored it in **/home/jiamin/project/cubic**   
+I made a new directory and stored it in **/home/jiamin/project/cubic**     
 ![image](https://user-images.githubusercontent.com/82058058/166127052-78111a50-962d-4ac5-aa22-9f4b57a48490.png)
 
 ### Step 5: Add the original iso image to customize
@@ -79,13 +79,13 @@ List all the backgrounds in the directory (img19 & outrun-vaporwave are the ones
 1. Same as the first part, but in a different directory. Change directory to /usr/share/gnome-background-properties: $ cd /usr/share/gnome-background-properties
 ![image](https://user-images.githubusercontent.com/82058058/166127743-1ea5e863-bc6d-4192-8781-bdfc8f40a54d.png)
 
-Step 9: Choose which packages need to be deleted from the customized iso. 
+### Step 9: Choose which packages need to be deleted from the customized iso. 
 ![image](https://user-images.githubusercontent.com/82058058/166127802-781a3b7d-840a-4385-9951-3a0b2506b925.png)
 
-Step 10: Select the Kernel
+### Step 10: Select the Kernel
 ![image](https://user-images.githubusercontent.com/82058058/166127815-b54aec1a-7815-434e-a370-1a72574f86d6.png)
 
-Step 11: Generate customized iso   
+### Step 11: Generate customized iso   
 ![image](https://user-images.githubusercontent.com/82058058/166127832-06dce1ba-c5e3-4da4-83ba-832e9b76dd21.png)
 
 The following are the details of the custom ISO image that was generated:  
@@ -94,7 +94,7 @@ The following are the details of the custom ISO image that was generated:
 Check the selected folder to store the customized iso:   
 ![image](https://user-images.githubusercontent.com/82058058/166127856-4657979e-e7b7-43eb-9257-92fa2ce3246e.png)
 
-Step 12: Test iso image using Cubic  
+### Step 12: Test iso image using Cubic  
 ![image](https://user-images.githubusercontent.com/82058058/166127896-cb60663c-c552-4c92-a313-334cc9d1871b.png)
   
 
