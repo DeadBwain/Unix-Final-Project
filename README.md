@@ -22,5 +22,5 @@ Email your thoughts to any of us.
 ## Support
 If you have any questions or seek any assistance, feel free to contact the following:
 - Jiamin Yuan: ymimi1121@gmail.com
-- Jonathan Dimitriu: jonik-13@hotmail.com 
+- Jonathan Dimitriu: DimitriuJonathan@outlook.com 
 
