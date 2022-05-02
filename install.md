@@ -82,8 +82,16 @@ List all the backgrounds in the directory (img19 & outrun-vaporwave are the ones
 ### Step 9: Choose which packages need to be deleted from the customized iso. 
 ![image](https://user-images.githubusercontent.com/82058058/166127802-781a3b7d-840a-4385-9951-3a0b2506b925.png)
 
+![Gnome Games to remove](https://user-images.githubusercontent.com/82055017/166335129-8af88103-d847-4b93-8a20-33730dce74c1.PNG)
+
+Note: you can remove any irelevent app that is not needed for the media-typed ISO.
+
 ### Step 10: Select the Kernel
 ![image](https://user-images.githubusercontent.com/82058058/166127815-b54aec1a-7815-434e-a370-1a72574f86d6.png)
+
+![might have only one](https://user-images.githubusercontent.com/82055017/166335355-2597b812-37f8-4f11-9b7a-d2d0516522d1.PNG)
+
+Note: You might only have a single Kernel.
 
 ### Step 11: Generate customized iso   
 ![image](https://user-images.githubusercontent.com/82058058/166127832-06dce1ba-c5e3-4da4-83ba-832e9b76dd21.png)
@@ -97,6 +105,23 @@ Check the selected folder to store the customized iso:
 ### Step 12: Test iso image using Cubic  
 ![image](https://user-images.githubusercontent.com/82058058/166127896-cb60663c-c552-4c92-a313-334cc9d1871b.png)
   
+### Alternative (Step 13) : Test iso image via Cloud based storage or USB
+
+Note: In my experience this method is quicker than Cubic for testing
+
+The md5sum command will output of the file's hash in which can help to ensure that the ISO file copied is not corrupted.
+- In this case we test if the hash matches the MD5 file upon creating the ISO image.
+
+![md5sum](https://user-images.githubusercontent.com/82055017/166335553-e9830513-9cd1-4e98-9f3a-7e4004daf272.PNG)
+
+![md5sum on USB](https://user-images.githubusercontent.com/82055017/166336185-b831d1b1-1d1a-415b-ab16-eb99a6be0b5d.PNG)
+
+After copying it to a USB (in this example), it is reccomenended to verify the file's hash code in order to ensure that it is properly copied.
+
+Note : It might be lengthy when executing the md5sum command on a copied file.
+
+The final result should show your app installed and any irrelevent app removed.
+![drawedFinalUnixResult](https://user-images.githubusercontent.com/82055017/166336526-7256011c-1423-4aae-b385-fd99a9106315.jpg)
 
 
 ##
