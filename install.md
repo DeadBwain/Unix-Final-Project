@@ -84,7 +84,7 @@ List all the backgrounds in the directory (img19 & outrun-vaporwave are the ones
 
 ![Gnome Games to remove](https://user-images.githubusercontent.com/82055017/166335129-8af88103-d847-4b93-8a20-33730dce74c1.PNG)
 
-Note: you can remove any irelevent app that is not needed for the media-typed ISO.
+Note: you can remove any irrelevent app that is not needed for the media-typed ISO.
 
 ### Step 10: Select the Kernel
 ![image](https://user-images.githubusercontent.com/82058058/166127815-b54aec1a-7815-434e-a370-1a72574f86d6.png)
@@ -116,7 +116,7 @@ The md5sum command will output of the file's hash in which can help to ensure th
 
 ![md5sum on USB](https://user-images.githubusercontent.com/82055017/166336185-b831d1b1-1d1a-415b-ab16-eb99a6be0b5d.PNG)
 
-After copying it to a USB (in this example), it is reccomenended to verify the file's hash code in order to ensure that it is properly copied.
+After copying it to a USB (in this example), it is reccomended to verify the file's hash code in order to ensure that it is properly copied.
 
 Note : It might be lengthy when executing the md5sum command on a copied file.
 
