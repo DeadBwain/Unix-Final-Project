@@ -5,6 +5,12 @@ A working **ubuntu** iso image with specific packages for media professionals. T
 
 ![image](https://user-images.githubusercontent.com/82058058/166124249-8f751a96-0e13-4f91-9280-21bc6a257399.png)
 
+![drawedFinalUnixResult](https://user-images.githubusercontent.com/82055017/166337934-f882e9dd-6ff3-4177-835a-5d1af9ce3d88.jpg)
+
+
+The custom ISO example:
+https://drive.google.com/file/d/1e53N5e84zMhJQ-nj3bOi23XibGzhMPFI/view
+
 ## Installation Guide
 A step-by-step tutorial to making an iso image that is similar to ours: [Installation Guide](https://github.com/DeadBwain/Unix-Final-Project/blob/main/install.md)
 
@@ -22,5 +28,5 @@ Email your thoughts to any of us.
 ## Support
 If you have any questions or seek any assistance, feel free to contact the following:
 - Jiamin Yuan: ymimi1121@gmail.com
-- Jonathan Dimitriu: jonik-13@hotmail.com 
+- Jonathan Dimitriu: DimitriuJonathan@outlook.com 
 
